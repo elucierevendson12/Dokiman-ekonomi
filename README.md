@@ -1,5 +1,5 @@
 # Economie-plus
-Le projet <<Economie-plus>> donnela possibilite aux utilisateurs de consulter des document ayaint rapport avec les cours enseignés sécurité en sciences économique à savoir la micro-économie etc. Il vise a satisfaire les étudiants, les professeurs, et les autres particuliers dans la recherche d'un ouvrage sérieux soit pour rediger leurs de voir, soit pour enrichir leur connaissance.
+CE projet donne la possibilite aux utilisateurs de consulter des document ayaint rapport avec les cours enseignés en sciences économique à savoir la micro-économie la micro-economie etc. Il vise a satisfaire les étudiants, les professeurs, et les autres particuliers dans la recherche d'un ouvrage sérieux soit pour rediger leurs de voir, soit pour enrichir leur connaissance.
 
 # Membres du groupe
 - Evendson Elucier 
@@ -39,7 +39,7 @@ Le projet <<Economie-plus>> donnela possibilite aux utilisateurs de consulter de
 # Prototype Figma
 https://www.figma.com/design/nKAGwuPjvTuEgOd7zkjxB2/Sans-titre?node-id=2-5&t=5wSUlTYWcED0gQFH-1
 
-<img src="" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
+<img src="iPhone 16 Pro - 2.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
 <img src="menu sombre.png" width=200> 
 
 
