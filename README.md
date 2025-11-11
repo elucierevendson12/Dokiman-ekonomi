@@ -39,8 +39,9 @@ Le projet <<Economie-plus>> donnela possibilite aux utilisateurs de consulter de
 # Prototype Figma
 https://www.figma.com/design/nKAGwuPjvTuEgOd7zkjxB2/Sans-titre?node-id=2-5&t=5wSUlTYWcED0gQFH-1
 
-<img src="iPhone 16 Pro - 2.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
+<img src="" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
 <img src="menu sombre.png" width=200> 
+
 
 
 
