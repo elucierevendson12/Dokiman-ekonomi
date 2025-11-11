@@ -43,9 +43,15 @@ https://www.figma.com/design/nKAGwuPjvTuEgOd7zkjxB2/Sans-titre?node-id=2-5&t=5wS
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%201.jpg?raw=true" width=200>
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%202@2x.jpg?raw=true" width=200>
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%203.jpg?raw=true" width=200>
+<img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%204.jpg?raw=true" width=200>
+<img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%205.png?raw=true" width=200>
+<img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%206.png?raw=true" width=200>
+<img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%207.png?raw=true" width=200>
+
 
 <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200> 
 <img src="menu sombre.png" width=200> 
+
 
 
 
