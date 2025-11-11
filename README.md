@@ -1,5 +1,5 @@
 # Economie-plus
-CE projet donne la possibilite aux utilisateurs de consulter des document ayaint rapport avec les cours enseignés en sciences économique à savoir la micro-économie la micro-economie etc. Il vise a satisfaire les étudiants, les professeurs, et les autres particuliers dans la recherche d'un ouvrage sérieux soit pour rediger leurs de voir, soit pour enrichir leur connaissance.
+CE projet donne la possibilite aux utilisateurs de consulter des document ayant rapport avec les cours enseignés en sciences économique à savoir la micro-économie etc. Il vise a satisfaire les étudiants, les professeurs, et les autres particuliers dans la recherche d'un ouvrage sérieux soit pour rediger leurs de voir, soit pour enrichir leur connaissance.
 
 # Membres du groupe
 - Evendson Elucier 
@@ -47,6 +47,7 @@ https://www.figma.com/design/nKAGwuPjvTuEgOd7zkjxB2/Sans-titre?node-id=2-5&t=5wS
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%205.png?raw=true" width=200>
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%206.png?raw=true" width=200>
 <img src="https://github.com/elucierevendson12/Dokiman-ekonomi/blob/main/iPhone%2016%20Pro%20-%207.png?raw=true" width=200>
+
 
 
 
